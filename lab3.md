@@ -25,6 +25,9 @@ Windows or Linux**
 
 **实验步骤与内容：**
 
+![](./image/mdshow.png)
+![](./image/pagesshow.png)
+
 
 
 
